@@ -108,11 +108,27 @@ c-% find and replace all
 c-m-K kill s-expression forward (cut)
 c-Y yanks s-expresion (paste)
 
-
-
-
-
-
 ```
+
+# Show Documentation for Lisp Functions
+```
+Show Doc <lisp function>
+Example: show doc reverse 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
